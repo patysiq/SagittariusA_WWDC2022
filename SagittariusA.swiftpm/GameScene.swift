@@ -24,7 +24,6 @@ struct GameScene: UIViewRepresentable {
 
            scene.addParticleSystem(BlackHole.getBlackHole(), transform: SCNMatrix4MakeRotation(0 , 0, 0, 0))
            scene.rootNode.addChildNode(BlackHole.fieldVortex())
-           Sounds.playAudio()
 
            scnView.allowsCameraControl = true
 

@@ -10,6 +10,7 @@ struct ContentView: View {
         UITabBar.appearance().unselectedItemTintColor = UIColor.gray
         UITabBar.appearance().layer.borderColor = UIColor.clear.cgColor
         UITabBar.appearance().clipsToBounds = true
+        Sounds.playAudio()
     }
     
     var body: some View {

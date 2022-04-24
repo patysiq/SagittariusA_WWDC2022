@@ -108,8 +108,6 @@ struct KatieView: UIViewRepresentable {
         scnView.allowsCameraControl = true
 
         scnView.autoenablesDefaultLighting = true
-        
-        Sounds.playAudio()
 
         return scnView
     }
