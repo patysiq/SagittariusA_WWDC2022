@@ -1,4 +1,4 @@
-# SagittariusA WWDC2022 [Accepted]
+# SagittariusA WWDC22 [Accepted]
 
 In this project I focus on promoting female inclusion in science by telling the academic story of Katie Bouman. 
 
